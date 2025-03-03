@@ -1,6 +1,6 @@
-# Duke project template
+# CS2113T Team Project Team F14-3, Academic Year 2021-2022, Semester 1, National University of Singapore 
 
-This is a project template for a greenfield Java project. It's named after the Java mascot _Duke_. Given below are instructions on how to use it.
+This is our team project for the module CS2113T Software Engineering & Object-Oriented Programming in which we are required to create any CLI-based application. Our team implemented CLIckFit, a desktop-based fitness app. CLI.ckFit allows you to input and track your calories, weight, foods, and workouts throughout the day. It also allows you to save your data and view it whenever you wish to. It comes with a BMI and recommended caloric intake calculator which can give you an idea of your current fitness level.
 
 ## Setting up in Intellij
 
