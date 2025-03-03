@@ -8,9 +8,9 @@ Prerequisites: JDK 11 (use the exact version), update Intellij to the most recen
 
 1. **Ensure Intellij JDK 11 is defined as an SDK**, as described [here](https://www.jetbrains.com/help/idea/sdk.html#set-up-jdk) -- this step is not needed if you have used JDK 11 in a previous Intellij project.
    * In the same dialog, you _may_ have to set the Project language level field to the SDK default option.
-1. **Import the project _as a Gradle project_**, as described [here](https://se-education.org/guides/tutorials/intellijImportGradleProject.html).
-1. **Verify the set up**: After the importing is complete, locate the `src/main/java/seedu/duke/Duke.java` file, right-click it, and choose `Run Duke.main()`. If the setup is correct, you should see something like the below:
-![image](https://github.com/user-attachments/assets/b5e36fea-19f3-44fd-8edc-a5a9ef99c80a)
+2. **Import the project _as a Gradle project_**, as described [here](https://se-education.org/guides/tutorials/intellijImportGradleProject.html).
+3. **Verify the set up**: After the importing is complete, locate the `src/main/java/seedu/duke/Duke.java` file, right-click it, and choose `Run Duke.main()`. If the setup is correct, you should see something like the below:
+![image](https://github.com/user-attachments/assets/c4a010c7-d581-41f5-8d2e-a8652007c0b9)
 
    Type some word and press enter to let the execution proceed to the end.
 
