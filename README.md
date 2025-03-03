@@ -1,4 +1,4 @@
-# CS2113T Team Project Team F14-3, Academic Year 2021-2022, Semester 1, National University of Singapore 
+# CS2113T Team Project Team F14-3, Year 2 Academic Year 2021-2022, Semester 1, National University of Singapore 
 
 This is our team project for the module CS2113T Software Engineering & Object-Oriented Programming in which we are required to create any CLI-based application. Our team implemented CLIckFit, a desktop-based fitness app. CLI.ckFit allows you to input and track your calories, weight, foods, and workouts throughout the day. It also allows you to save your data and view it whenever you wish to. It comes with a BMI and recommended caloric intake calculator which can give you an idea of your current fitness level.
 
@@ -10,21 +10,8 @@ Prerequisites: JDK 11 (use the exact version), update Intellij to the most recen
    * In the same dialog, you _may_ have to set the Project language level field to the SDK default option.
 1. **Import the project _as a Gradle project_**, as described [here](https://se-education.org/guides/tutorials/intellijImportGradleProject.html).
 1. **Verify the set up**: After the importing is complete, locate the `src/main/java/seedu/duke/Duke.java` file, right-click it, and choose `Run Duke.main()`. If the setup is correct, you should see something like the below:
-   ```
-   > Task :compileJava
-   > Task :processResources NO-SOURCE
-   > Task :classes
-   
-   > Task :Duke.main()
-   Hello from
-    ____        _        
-   |  _ \ _   _| | _____ 
-   | | | | | | | |/ / _ \
-   | |_| | |_| |   <  __/
-   |____/ \__,_|_|\_\___|
-   
-   What is your name?
-   ```
+![image](https://github.com/user-attachments/assets/b5e36fea-19f3-44fd-8edc-a5a9ef99c80a)
+
    Type some word and press enter to let the execution proceed to the end.
 
 ## Build automation using Gradle
